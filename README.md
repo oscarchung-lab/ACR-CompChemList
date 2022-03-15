@@ -1,10 +1,6 @@
 # ACR-CompChemList
 Glossary and Abbreviation for Computational Chemistry Methods or Name of Programs (in Alphabetical Order) 
 
----
-title: "[]{#_Toc95660739 .anchor}**Table S1**. Glossary and Abbreviation for Computational Chemistry Methods or Name of Programs (in Alphabetical Order)"
----
-
   **(A) Model Preparation**                 
   ----------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ***Structures***                          
